@@ -237,7 +237,7 @@ CARD_SUBWAY_MONTH_202407
 첫 파일인 CARD_SUBWAY_MONTH_202403.csv를 열고,
 유니온 편집 > 와일드 카드 > 일치 패턴 입력
 ```
-(사진)
+![image](../tableau/img/KakaoTalk_20240913_225230300)
 
 ✅ CARD_SUBWAY_MONTH_2024* 로 입력한 이유는? 
 이 문제에서는 3~7월이지만, 다음에 10, 11, 12월 데이터를 불러와야 할 수도 있으니까..ㅎ
