@@ -67,7 +67,7 @@ SELECT *
   ```
 
 ## 💥📷강의 수강 인증샷📷💥
-![image.png]()
+![image.png](https://github.com/dorxor/DartB-24-2/blob/main/sql/img/sql%203%EC%A3%BC%EC%B0%A8_4.png?raw=true)
 
 ## 🏁 문제풀이 - 조건에 맞는 사용자와 총 거래금액 조회하기
 Q. USED_GOODS_BOARD와 USED_GOODS_USER 테이블에서 완료된 중고 거래의 총금액이 70만 원 이상인 사람의 회원 ID, 닉네임, 총거래금액을 조회하는 SQL문을 작성해주세요. 결과는 총거래금액을 기준으로 오름차순 정렬해주세요.
@@ -113,6 +113,7 @@ SELECT USER_ID,
  HAVING TOTAL_SALES >= 700000
  ORDER BY 3 DESC;
 ```
+![image.png](https://github.com/dorxor/DartB-24-2/blob/main/sql/img/sql%203%EC%A3%BC%EC%B0%A8_1.png?raw=true)
 
 ## 🏁 문제풀이 - 업그레이드 할 수 없는 아이템 구하기
 Q. 더 이상 업그레이드할 수 없는 아이템의 아이템 ID(ITEM_ID), 아이템 명(ITEM_NAME), 아이템의 희귀도(RARITY)를 출력하는 SQL 문을 작성해 주세요. 이때 결과는 아이템 ID를 기준으로 내림차순 정렬해 주세요.
@@ -132,6 +133,7 @@ SELECT I.ITEM_ID, ITEM_NAME, RARITY
 
 # OUTER JOIN이 안되더라,, MYSQL에서 FULL OUTER JOIN이 기본적으로 지원되지 않기 때문
 ```
+![image.png](https://github.com/dorxor/DartB-24-2/blob/main/sql/img/sql%203%EC%A3%BC%EC%B0%A8_2.png?raw=true)
 
 ## 🏁 문제풀이 - 조건에 맞는 개발자 찾기
 
@@ -147,3 +149,6 @@ select DISTINCT(id), email, first_name, last_name
  where s.name in ('C#','Python')
  order by id;
 ```
+![image.png](https://github.com/dorxor/DartB-24-2/blob/main/sql/img/sql%203%EC%A3%BC%EC%B0%A8_3.png?raw=true)
+
+## 🧽Clear!🫧
