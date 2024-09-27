@@ -1,4 +1,4 @@
-1주차(SQL과 BigQuery 학습의 필요성 이해)
+# 1주차(SQL과 BigQuery 학습의 필요성 이해)
 
 ## 1-1. BigQuery 기초 지식
 데이터베이스(데이터의 저장소) 내에 테이블이 존재!
@@ -128,3 +128,4 @@ ex) 설문조사, 회원가입하며 남긴 개인정보
 - 세컨드(2)파티 데이터 : 내가 아닌, 다른 주체가 수집한(=다른 기업에서 수집한) 데이터 → 비용을 지불하여 데이터 구매 → 퍼스트파티 데이터 부족함 보완
 
 ## 💥📷강의 수강 인증샷📷💥
+![image.png](https://github.com/dorxor/DartB-24-2/blob/main/sql/img/sql%201%EC%A3%BC%EC%B0%A8.png?raw=true)
