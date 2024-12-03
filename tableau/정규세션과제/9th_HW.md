@@ -29,5 +29,6 @@
 ### 차트에서 노래 제목 선택 시
 ![img](https://github.com/dorxor/DartB-24-2/blob/main/tableau/img/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C_3.png?raw=true)
 - 선택한 노래의 가사 제시
-- 해당 노래의 음악적 특징, 점수 등 제시
+- 해당 노래의 음악적 특징, 점수 등 제시\
+각 점수의 값을 max값으로 나누어, 0~1 사이 값으로 스케일링
 - 웹페이지에 유튜브 링크("https://www.youtube.com/results?search_query=" + [제목])를 넣어, 해당 노래 제목 검색 결과 제시
